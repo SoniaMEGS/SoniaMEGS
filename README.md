@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is **Sonia Mendoza**. I am a Front-end developer. I love to create, optimize and deploy web applications focusing on the user experience through friendly and functional interfaces. **Skilled in JavaScript, React, HTML, CSS, Redux**
+My name is **Sonia Mendoza**. I am a Front-end developer. I love to create, optimize and deploy web applications focusing on the user experience through friendly and functional interfaces. **Skilled in JavaScript, React, Tailwind, HTML, CSS, Redux**
 
 ## Skills
 [![Skills](https://skills.thijs.gg/icons?i=js,react,tailwind,redux,html,css&theme=dark&perline=5)](https://github.com/SoniaMEGS)
